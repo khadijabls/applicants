@@ -10,34 +10,11 @@
         "IssuePlace": "FQUIH BEN SALAH",
         "ExpiryDate": "2030-04-15",
         "Email": "yassine.elouassile@gmail.com",
-        "visatype": "STUDENT "
+        "visatype": "STUDENT ",
+        "PhotoId": "62fe7a45-c614-43a7-aedc-cbdd1edaf231"
+
     },
-{
-        "FirstName": "yassine",
-        "LastName": "najih",
-        "DateOfBirth": "1989-10-29",
-        "PlaceOfBirth": "khouribga",
-        "Gender": "FEMale",
-        "PassportNo": "QV0460958",
-        "IssueDate": "2023-12-26",
-        "IssuePlace": "MDIQ FNIDEQ",
-        "ExpiryDate": "2028-12-26",
-        "Email": "yassine.elouassile@gmail.com",
-        "visatype": "tetouan "
-    },
-   {
-        "FirstName": "JAMILA",
-        "LastName": "ES SALMI",
-        "DateOfBirth": "2002-02-02",
-        "PlaceOfBirth": "SIDI MOUSSA",
-        "Gender": "FEMale",
-        "PassportNo": "XT6380720",
-        "IssueDate": "2022-11-10",
-        "IssuePlace": "EL KELAA DES SRAGHNA",
-        "ExpiryDate": "2027-11-10",
-        "Email": "yassine.elouassile@gmail.com",
-        "visatype": "WORK "
-    },
+
   {
         "FirstName": "AHMED",
         "LastName": "CHARKAOUI",
@@ -49,7 +26,9 @@
         "IssuePlace": "SETTAT",
         "ExpiryDate": "2026-12-29",
         "Email": "yassine.elouassile@gmail.com",
-        "visatype": "National"
+        "visatype": "National",
+        "PhotoId": "fe839ca0-a038-4f6d-b114-224e8112a7dc"
+
     },
  {
         "FirstName": "OTHMAN",
@@ -62,7 +41,8 @@
         "IssuePlace": "EL KELAA DES SRAGHNA",
         "ExpiryDate": "2027-08-12",
         "Email": "yassine.elouassile@gmail.com",
-        "visatype": "SPAIN WORK"
+        "visatype": "SPAIN WORK",
+        "PhotoId": "fe839ca0-a038-4f6d-b114-224e8112a7dc"
     },
     {
         "FirstName": "KAMAL",
@@ -75,7 +55,8 @@
         "IssuePlace": "CASABLANCA",
         "ExpiryDate": "2030-05-29",
         "Email": "yassine.elouassile@gmail.com",
-        "visatype": "PORTUGAL"
+        "visatype": "PORTUGAL",
+        "PhotoId": "fe839ca0-a038-4f6d-b114-224e8112a7dc"
     },
     {
         "FirstName": "ADAM",
@@ -88,7 +69,8 @@
         "IssuePlace": "FQUIH BEN SALAH",
         "ExpiryDate": "2030-04-15",
         "Email": "yassine.elouassile@gmail.com",
-        "visatype": "SPAIN WORK"
+        "visatype": "SPAIN WORK",
+        "PhotoId": "fe839ca0-a038-4f6d-b114-224e8112a7dc"
     },
     {
         "FirstName": "AHMED",
@@ -101,7 +83,8 @@
         "IssuePlace": "SETTAT",
         "ExpiryDate": "2029-10-24",
         "Email": "yassine.elouassile@gmail.com",
-        "visatype": "SPAIN CASA1"
+        "visatype": "SPAIN CASA1",
+        "PhotoId": "fe839ca0-a038-4f6d-b114-224e8112a7dc"
     },
     {
         "FirstName": "ZAKARIA",
@@ -114,7 +97,8 @@
         "IssuePlace": "SETTAT",
         "ExpiryDate": "2026-10-25",
         "Email": "yassine.elouassile@gmail.com",
-        "visatype": "SPAIN CASA1"
+        "visatype": "SPAIN CASA1",
+        "PhotoId": "fe839ca0-a038-4f6d-b114-224e8112a7dc"
     },
     
    
@@ -129,6 +113,7 @@
         "IssuePlace": "CASABLANCA",
         "ExpiryDate": "2028-08-11",
         "Email": "yassine.elouassile@gmail.com",
-        "visatype": "PORTUGAL TOURISME"
+        "visatype": "PORTUGAL TOURISME",
+        "PhotoId": "fe839ca0-a038-4f6d-b114-224e8112a7dc"
     }
 ]
