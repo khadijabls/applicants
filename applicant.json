@@ -16,17 +16,17 @@
     },
 
   {
-        "FirstName": "EL MAHJOUB",
-        "LastName": "BELGHITI",
-        "DateOfBirth": "2006-07-30",
-        "PlaceOfBirth": "BEN SLEMANE",
+        "FirstName": "OTMANE",
+        "LastName": "ABOUFARIS",
+        "DateOfBirth": "1998-02-16",
+        "PlaceOfBirth": "OULAD BOUALI NOUAJA",
         "Gender": "Male",
-        "PassportNo": "LB6437219",
-        "IssueDate": "2023-10-27",
+        "PassportNo": "UQ0348482",
+        "IssueDate": "2024-11-01",
         "IssuePlace": "SETTAT",
-        "ExpiryDate": "2028-06-23",
+        "ExpiryDate": "2029-11-01",
         "Email": "yassine.elouassile@gmail.com",
-        "visatype": "ETUD CASA",
+        "visatype": "C2",
         "PhotoId": "cd57c3c6-af91-4689-8e04-19bd5fa6c094"
 
     },
@@ -117,6 +117,7 @@
         "PhotoId": "fe839ca0-a038-4f6d-b114-224e8112a7dc"
     }
 ]
+
 
 
 
