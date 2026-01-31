@@ -1,35 +1,5 @@
 [
-{
-        "FirstName": "AZIZ",
-        "LastName":"ARAIBI",
-        "DateOfBirth": "1996-04-11",
-        "PlaceOfBirth": "BENI CHEGDALE",
-        "Gender": "male",
-        "PassportNo": "AB8962825",
-        "IssueDate": "2022-02-01",
-        "IssuePlace": "FQUIH BEN SALAH",
-        "ExpiryDate": "2027-02-01",
-        "Email": "yassine.elouassile@gmail.com",
-        "visatype": "WORK CASA",
-        "PhotoId": "3894e192-f7b2-4106-9090-77a987e947de"
 
-    },
-
-  {
-        "FirstName": "abla",
-        "LastName": "LAAMARI",
-        "DateOfBirth": "2002-07-17",
-        "PlaceOfBirth": "EL BOROUJ",
-        "Gender": "Male",
-        "PassportNo": "YJ4695613",
-        "IssueDate": "2024-01-26",
-        "IssuePlace": "settat",
-        "ExpiryDate": "2028-01-26",
-        "Email": "yassine.elouassile@gmail.com",
-        "visatype": "WORK",
-        "PhotoId": "3894e192-f7b2-4106-9090-77a987e947de"
-
-    },
  {
         "FirstName": "youssef",
         "LastName": "MEZYAN",
@@ -117,6 +87,7 @@
         "PhotoId": ""
     }
 ]
+
 
 
 
