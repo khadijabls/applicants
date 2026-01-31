@@ -11,7 +11,7 @@
         "ExpiryDate": "2027-02-01",
         "Email": "yassine.elouassile@gmail.com",
         "visatype": "WORK CASA",
-        "PhotoURL": "https://ibb.co/vvP4cnGm/photo.jpg"
+        "PhotoId":"3894e192-f7b2-4106-9090-77a987e947de"
 
     },
 
@@ -27,7 +27,7 @@
         "ExpiryDate": "2028-01-26",
         "Email": "yassine.elouassile@gmail.com",
         "visatype": "WORK",
-        "PhotoId": "cd57c3c6-af91-4689-8e04-19bd5fa6c094"
+        "PhotoId":"3894e192-f7b2-4106-9090-77a987e947de"
 
     },
  {
@@ -117,6 +117,7 @@
         "PhotoId": ""
     }
 ]
+
 
 
 
